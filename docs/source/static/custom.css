@@ -37,6 +37,10 @@ a.visited {
 	color: #444;
 }
 
+.weird-class {
+	color: green;
+}
+
 h1,
 h2,
 h3 {
