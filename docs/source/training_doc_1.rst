@@ -13,4 +13,5 @@ Sub Section 02
 Sub Section 03
 ------------
 .. raw:: html
-    <p>test</p>
+
+    <p class="weird-class">This is a test paragraph.</p>
