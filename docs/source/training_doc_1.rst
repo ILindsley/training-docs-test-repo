@@ -13,4 +13,4 @@ Sub Section 02
 Sub Section 03
 ------------
 .. raw:: html
-    <div>test</div>
+    <p>test</p>
