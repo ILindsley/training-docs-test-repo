@@ -6,6 +6,9 @@ Sub Section 01
 
 Sub Section 02
 ------------
+.. raw:: html
+
+    <p>This is a test paragraph.</p>
 
 Sub Section 03
 ------------
