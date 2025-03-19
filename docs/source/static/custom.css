@@ -37,8 +37,9 @@ a.visited {
 	color: #444;
 }
 
-.weird-class {
-	color: green;
+/* Try increasing specificity */
+body .weird-class {
+    color: green !important;
 }
 
 h1,
