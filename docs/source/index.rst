@@ -15,10 +15,9 @@ how to :ref:`installation` the project.
 
 Contents
 --------
-
 .. toctree::
    :maxdepth: 2
    
    usage
    api
-   training
+   training/index
