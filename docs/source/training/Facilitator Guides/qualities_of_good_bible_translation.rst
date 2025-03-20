@@ -1,4 +1,4 @@
-Training
+Qualities of Good Bible Translation Facilitator Guide
 =====
 
 March 2025 Kenya Training Schedule
