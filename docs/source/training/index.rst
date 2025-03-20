@@ -1,4 +1,4 @@
-Training
+Training Materials
 =====
 .. toctree::
    :maxdepth: 2

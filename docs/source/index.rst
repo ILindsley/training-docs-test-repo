@@ -1,17 +1,7 @@
-Welcome to Lumache's documentation!
+Welcome to uW Training documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
+This website is intended for your use in training translators and those who create training and resources for Bible translators. Everything posted here is free for you to copy, download, use, and adapt in training others in how to translate and use the Word of God in the ministry. May the Lord richly bless you as you use and share these materials. 
 
 Contents
 --------

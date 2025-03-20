@@ -1,7 +1,7 @@
 Facilitator Guides
 =====
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    qualities_of_good_bible_translation
    translation_drafting 
