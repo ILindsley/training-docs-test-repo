@@ -1,4 +1,4 @@
-Facilitator Guides
+Training
 =====
 .. toctree::
    :maxdepth: 1

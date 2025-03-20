@@ -1,3 +1,5 @@
+Facilitator Guides
+=====
 .. toctree::
    :maxdepth: 1
 
