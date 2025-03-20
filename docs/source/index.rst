@@ -20,4 +20,4 @@ Contents
 
    usage
    api
-   training_doc_1
+   training
