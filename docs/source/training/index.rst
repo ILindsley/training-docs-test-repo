@@ -1,3 +1,5 @@
-.. toctree::
 
+.. toctree::
+   :maxdepth: 1
+   
    Facilitator Guides

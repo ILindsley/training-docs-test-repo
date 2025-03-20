@@ -1,5 +1,7 @@
+
 .. toctree::
+   :maxdepth: 1
 
    qualities_of_good_bible_translation
-   trusted_trustworthy 
-   translation_drafting
+   translation_drafting 
+   trusted_trustworthy
